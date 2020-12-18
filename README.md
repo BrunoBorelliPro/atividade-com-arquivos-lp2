@@ -1,5 +1,5 @@
 # Atividade de manipulação de arquivos
-Atividade para a disciplina de linguagem técnica de programação 2 utilizando python e a biblioteca openpyxl
+Atividade para a disciplina de linguagem de programação 2 utilizando python e a biblioteca openpyxl
 
 # Requisitos:
 ## openpyxl
